@@ -1,4 +1,4 @@
-var constants = require('../constants')
+var constants = require("../constants")
 
 module.exports = function EditorActionCreators (store, commonActions) {
   var setRoute = commonActions.setRoute
